@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr.namespace:App_nueva4"
+             x:Class="App_nueva4.MainPage">
+
+    <StackLayout>
+        <Frame Padding="24" CornerRadius="0">
+            <Frame.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#07a3b2"
+                          Offset="0.1"/>
+                    <GradientStop Color="#d9ecc7"
+                          Offset="1.0" />
+                </LinearGradientBrush>
+            </Frame.Background>
+            <Label Text="El adivinador?" HorizontalTextAlignment="Center" TextColor="Gold" FontSize="36" FontAttributes="Italic"/>
+        </Frame>
+        <Label Text="Magia Negra!" FontSize="Large" TextColor="White" HorizontalTextAlignment="Center" Padding="30,10,30,10"/>
+        <Label Text="Selecciona una de las siguientes opciones para que le universo se manifieste en este codigo!" FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+        <Button Text="Adivinar Numero" Clicked="Button_Clicked" CornerRadius="180" HorizontalOptions="Center" x:Name="advNum"/>
+        <Button Text="Adivinar Fecha Nacimiento" Clicked="Button_Clicked_1" CornerRadius="180" HorizontalOptions="Center" VerticalOptions="Center" x:Name="advEdad"/>
+
+
+        
+
+
+    </StackLayout>
+
+                
+
+</ContentPage>

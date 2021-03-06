@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_nueva4.Page1">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Start" HorizontalOptions="Center">
+
+            <Frame Padding="24" CornerRadius="0">
+                <Frame.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#07a3b2"
+                          Offset="0.1"/>
+                        <GradientStop Color="#d9ecc7"
+                          Offset="1.0" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <Label Text="Adivinar Número" HorizontalTextAlignment="Center" TextColor="Gold" FontSize="36" FontAttributes="Italic"/>
+            </Frame>
+
+
+            <Label Text="Sigue los siguientes pasos en el mismo orden =" FontSize="Title" TextColor="RoyalBlue" Padding="30,0,30,0"/>
+            <Label Text="1. Piensa en un número cualquiera..." FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+            <Label Text="2. Ahora ese numero multiplicalo por 2..." FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+            <Label Text="3. Ahora sumale 8 a tu resultado..." FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+            <Label Text="4. Ahora multiplica por 5 tu resultado actual..." FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+            <Label Text="5. Magnífico, acercate y dime el resultado de esa operacion al oído... " FontSize="16" TextColor="White" Padding="30,0,30,0"/>
+
+
+            <Entry Placeholder="Oído" Keyboard="Numeric" HorizontalOptions="Center" x:Name="numBt"/>
+
+            <Button Text="Susurrar" Clicked="advNum_Clicked" CornerRadius="180" HorizontalOptions="Center" x:Name="advNum"/>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+E:\Git\App nueva4\App nueva4\bin\Debug\netstandard2.0\App nueva4.deps.json
+E:\Git\App nueva4\App nueva4\bin\Debug\netstandard2.0\App nueva4.dll
+E:\Git\App nueva4\App nueva4\bin\Debug\netstandard2.0\ref\App nueva4.dll
+E:\Git\App nueva4\App nueva4\bin\Debug\netstandard2.0\App nueva4.pdb
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.csprojAssemblyReference.cache
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.AssemblyInfoInputs.cache
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.AssemblyInfo.cs
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.csproj.CoreCompileInputs.cache
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.dll
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\ref\App nueva4.dll
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\App nueva4.pdb
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+E:\Git\App nueva4\App nueva4\obj\Debug\netstandard2.0\Page1.xaml.g.cs
